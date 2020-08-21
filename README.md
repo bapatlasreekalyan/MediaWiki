@@ -1,0 +1,2 @@
+# MediaWiki
+mediawiki terraform
